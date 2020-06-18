@@ -3,7 +3,8 @@
 ## U.T.N. F-R-M
 ## Profesor: Mag. Cortez Alberto
 
-## Rama Develop del Frontend de personaDom realizado en Angular 9 con Material (visit: material.angular.io)
+## Ejecutar con el back de la rama master
+## Rama Frontend de personaDom realizado en Angular 9 con Material 
 ### CRUD - Master-Detail 
 
 # Realizado por:
